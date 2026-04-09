@@ -1,0 +1,5 @@
+com/example/coindesk/CoinDeskTransformTest.class
+com/example/coindesk/CoinDeskApiTest.class
+com/example/coindesk/CurrencyControllerTest.class
+com/example/coindesk/CurrencyServiceTest.class
+com/example/coindesk/CoinDeskControllerTest.class
